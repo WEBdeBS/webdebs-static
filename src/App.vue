@@ -8,9 +8,8 @@
   </main>
 </template>
 
-<style scoped>
-.logo {
-  width: 40vw;
-  max-width: 400px;
+<style>
+body {
+  background-color: white;
 }
 </style>
